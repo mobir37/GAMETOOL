@@ -1,0 +1,2 @@
+import colorama as col
+print(col.Style.BRIGHT,"dfd")
